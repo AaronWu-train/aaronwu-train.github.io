@@ -23,6 +23,8 @@ removePathAccents: true
 
 build:
   writeStats: true
+ignoreFiles:
+  - "^content/deprecated/.*\\.md$"
 enableGitInfo: true
 summaryLength: 30
 pagination:
