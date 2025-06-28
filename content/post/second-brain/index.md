@@ -8,7 +8,7 @@ tags:
   - Second Brain
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
@@ -83,7 +83,7 @@ Anh here's a more advanced mindmap with formatting, code blocks, and math:
 
 renders as
 
-```markmap
+````markmap
 - Mindmaps
   - Links
     - [Hugo Blox Docs](https://docs.hugoblox.com/)
@@ -101,7 +101,7 @@ renders as
       console.log('code block');
       ```
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+````
 
 ## Highlighting
 
