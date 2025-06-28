@@ -5,6 +5,10 @@ title: "Posts"
 # 使用 Landing Page 模板，才能解析 sections 底下的 block
 type: landing
 
+design:
+  # Section spacing
+  spacing: "5rem"
+
 # 分頁設定（每頁顯示 9 篇，可依需求調整）
 params:
   pagination:
