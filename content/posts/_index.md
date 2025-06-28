@@ -38,7 +38,7 @@ sections:
       order: descending
     design:
       view: article-grid # 卡片式格子顯示
-      columns: 1 # 三欄排版
+      columns: 1 # n欄排版
       fill_image: true # 卡片圖像不強制填滿
       gap: 1.5rem # 卡片之間的間距
       max_width: none # 取消內建的寬度限制

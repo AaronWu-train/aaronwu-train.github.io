@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "aaronwu0218@gmail.com"
+    url: "mailto:aaronwu0218@gmail.com"
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/aaw.rail/
@@ -48,6 +48,7 @@ interests:
   - Robotics
   - Artificial Intelligence
   - Competitive Programming
+  - Scheduling Problems
 
 education:
   - area: Undergraduate in Electrical Engineering
@@ -179,4 +180,4 @@ languages:
 
 ## About Me
 
-I am a first-year electrical engineering student at National Taiwan University, passionate about both hardware and software. I enjoy teamwork and aim to combine my skills in engineering and programming to create impactful projects.
+I'm currently a first-year Electrical Engineering student at National Taiwan University, having graduated from the Math and Science Gifted Class at Taipei Municipal Chien Kuo High School. I'm passionate about both hardware and software, enjoy collaborative teamwork, and aim to integrate my engineering and programming skills to develop impactful projects.
