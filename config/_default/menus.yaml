@@ -19,3 +19,6 @@ main:
   - name: Tags
     url: tags/
     weight: 40
+  - name: Slides
+    url: https://slides.com/aaw/
+    weight: 50
