@@ -39,6 +39,8 @@ profiles:
     url: https://github.com/AaronWu-train
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/aawrail
+  - icon: brands/file-earmark-slides-fill
+    url: https://slides.com/aaw/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
