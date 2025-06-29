@@ -146,36 +146,20 @@ languages:
     percent: 100
   - name: English
     percent: 65
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-# - title: Neural Networks and Deep Learning
-#   url: https://www.coursera.org/learn/neural-networks-deep-learning
-#   date: "2023-11-25"
-#   awarder: Coursera
-#   icon: coursera
-#   summary: |
-#     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-# - title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#   date: "2023-07-01"
-#   awarder: edX
-#   icon: edx
-#   summary: |
-#     Learned:
-#     - Synthesize your own blockchain solutions
-#     - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-# - title: "Object-Oriented Programming in R"
-#   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#   certificate_url: https://www.datacamp.com
-#   date: "2023-01-21"
-#   awarder: datacamp
-#   icon: datacamp
-#   summary: |
-#     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  # Awards.
+  #   Add/remove as many awards below as you like.
+  #   Only `title`, `awarder`, and `date` are required.
+  #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: 以元啟發式最佳化演算法進行鐵路時刻表排點
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: "2023-07-28"
+    awarder: 全國科展第三名
+    icon: National_Taiwan_Science_Education_Center_logo
+    summary: |
+      我開發了一套結合元啟發式最佳化演算法（包含基因演算法與登山演算法）與專用模擬器的自動化旅客列車時刻排班系統，能在考量乘客需求的同時，快速產出無衝突、運輸成功率高且旅途時間最短的最佳時刻表。
+
+      I developed an automated passenger train timetable scheduling system that integrates metaheuristic optimization algorithms—including genetic algorithms and hill-climbing—with a custom simulator to rapidly generate conflict-free schedules that maximize transport success rates and minimize travel time while meeting passenger demand.
 ---
 
 ## About Me
