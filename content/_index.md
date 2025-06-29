@@ -30,15 +30,15 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: "📚 My Site"
-      subtitle: ""
-      text: |-
-        Hello World
+  # - block: markdown
+  #   content:
+  #     title: "📚 My Site"
+  #     subtitle: ""
+  #     text: |-
+  #       Hello World
 
-    design:
-      columns: "1"
+  #   design:
+  #     columns: "1"
   # - block: collection
   #   id: papers
   #   content:
@@ -98,5 +98,5 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [1, 0, 0, 0]
 ---
