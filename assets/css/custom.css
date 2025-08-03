@@ -1,0 +1,12 @@
+/* 只調整文章內文的字體大小 */
+.prose,
+.prose p,
+article {
+  font-size: 1.05rem;
+}
+
+.prose ul li,
+.prose ol li {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
