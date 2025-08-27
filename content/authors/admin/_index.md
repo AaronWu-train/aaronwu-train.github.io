@@ -60,6 +60,10 @@ education:
     institution: Taipei Municipal Chien Kuo High School
     date_start: 2021-09-01
     date_end: 2024-06-04
+  - area: Berkeley Method of Entrepreneurship Bootcamp
+    institution: UC Berkeley Sutardja Center for Entrepreneurship and Technology (SCET)
+    date_start: 2025-08-18
+    date_end: 2025-08-22
   # - area: PhD Artificial Intelligence
   #   institution: Stanford University
   #   date_start: 2016-01-01
